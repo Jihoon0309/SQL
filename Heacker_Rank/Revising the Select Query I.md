@@ -7,11 +7,6 @@ The CITY table is described as follows:</br>
 
 ![image](https://github.com/Jihoon0309/SQL/assets/130656475/aff80473-5553-4d93-90f4-6fe8e8cf3736)
 
-
-
-
-
-SQL CODE
 </br>
 '''</br>
 SELECT *</br>
